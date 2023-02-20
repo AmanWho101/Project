@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-watch this video ['https://www.youtube.com/watch?v=i3J8gyARN-Y']\
+watch this video ['https://www.youtube.com/watch?v=i3J8gyARN-Y']
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
