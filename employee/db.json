@@ -1,0 +1,27 @@
+{
+  "employee":[
+    {
+      "id": 1,
+      "name": "jhon",
+      "email": "ychag@example.com",
+      "phone": "123-456-"
+  }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
